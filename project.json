@@ -1,0 +1,85 @@
+{
+  "title": "Actividades cuadernillo",
+  "author": "julia iveth jerez murrieta, Arick Fernando Martinez Ibarra",
+  "date": "14/10/26",
+  "langCodes": [
+    "es"
+  ],
+  "languages": {
+    "es": "español"
+  },
+  "areaCodes": [
+    "soc",
+    "exp"
+  ],
+  "areas": {
+    "es": "Ciencias sociales, Ciencias experimentales"
+  },
+  "levelCodes": [
+    "PRI"
+  ],
+  "levels": {
+    "es": "Primaria (6-12)"
+  },
+  "description": {
+    "es": "Saberes y pensamiento cientifico Fase 4"
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "actividades_cuadernillo.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 22,
+  "mediaFiles": 39,
+  "totalSize": 6543922,
+  "files": [
+    "1_azul_sin_texto-actividades_cuadernillo.png",
+    "1_azul_sin_texto.png",
+    "2_rosa_sin_texto-actividades_cuadernillo.png",
+    "2_rosa_sin_texto.png",
+    "3_verde_sin_texto-actividades_cuadernillo.png",
+    "3_verde_sin_texto.png",
+    "4_morado_sin_texto-actividades_cuadernillo.png",
+    "4_morado_sin_texto.png",
+    "a_clean_pastel_cartoon_infographic_style_educati-resized-actividades_cuadernillo.jpg",
+    "a_clean_pastel_cartoon_infographic_style_educati-resized.jpg",
+    "actividades_cuadernillo.jclic",
+    "actividades_cuadernillo.jclic.js",
+    "favicon.ico",
+    "funcion_circulacion-actividades_cuadernillo.png",
+    "funcion_circulacion.png",
+    "funcion_digestion-actividades_cuadernillo.png",
+    "funcion_digestion.png",
+    "funcion_excrecion-actividades_cuadernillo.png",
+    "funcion_excrecion.png",
+    "funcion_respiracion-actividades_cuadernillo.png",
+    "funcion_respiracion.png",
+    "icon-192.png",
+    "icon-72.png",
+    "images-actividades_cuadernillo.jpg",
+    "images-actividades_cuadernillo.png",
+    "images.jpg",
+    "images.png",
+    "images__1_-actividades_cuadernillo.jpg",
+    "images__1_-actividades_cuadernillo.png",
+    "images__1_.jpg",
+    "images__1_.png",
+    "images__2_-actividades_cuadernillo.jpg",
+    "images__2_.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "planta-resized-actividades_cuadernillo.jpg",
+    "planta-resized.jpg",
+    "portada_-resized-actividades_cuadernillo.jpg",
+    "portada_-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "rompecabezas_-resized-actividades_cuadernillo.jpg",
+    "rompecabezas_-resized.jpg"
+  ]
+}
